@@ -1,0 +1,2 @@
+10.6.6.6 www.piazza.com
+1.1.1.1 www.pec.ac.in
